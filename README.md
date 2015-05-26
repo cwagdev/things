@@ -3,3 +3,6 @@ A repository of sites, services, etc... that I want to keep track of but not be 
 
 # Learning
 [Skillshare.com](http://www.skillshare.com) - Learning for Creators
+
+# P2P Services
+[Task Rabbit](https://www.taskrabbit.com) - TaskRabbit is the smart way to get things done by connecting you with others in your neighborhood.
